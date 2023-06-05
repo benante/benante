@@ -1,4 +1,4 @@
-# Hi there 👋
+# Ciao 👋
 ## I' m Tommaso
 another guy trying to change career into web development after a degree in philosophy, years of hospitality and a few as brewer. If I don't change things I get bored 🥱
 
