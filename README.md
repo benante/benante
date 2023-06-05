@@ -1,6 +1,6 @@
 # Ciao 👋
 ## I' m Tommaso
-another guy trying to change career into web development after a degree in philosophy, years of hospitality and a few as brewer. If I don't change things I get bored 🥱
+another guy trying to change career into web development after a degree in philosophy, years of hospitality and a few other as brewer. Embracing the pursuit of perpetual growth, forever in pursuit of fresh experiences
 
 ### 👷 I’m currently working on
 learning front end development, starting from the basics: html, css and js. I recently started a bootcamp at Founders and Coders that will hopefully take me to the next level! 
