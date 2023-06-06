@@ -29,7 +29,7 @@ about the exciting world of asynchronous task management and exploring the art o
 he/him 
 
 ## 💩 Fun fact
-Rivers Cuomo, from Weezer, is also on [Github](https://github.com/riverscuomo) and he has done more contributions than you!
+Rivers Cuomo, from Weezer, is also on **Github** [(check him out)](https://github.com/riverscuomo) and he has done more contributions than you!
 <!--
 Great resource: https://www.sitepoint.com/github-profile-readme/
 -->
