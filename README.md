@@ -1,8 +1,7 @@
-![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
-
-
 # Hello 👋 , I' m Tommaso
 a software developer in training, with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders. Embracing the pursuit of perpetual growth, forever in pursuit of fresh experiences
+
+![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
 
 ### 👷 I’m currently working on
 learning front end development, starting from the basics: html, css and js. I recently started a bootcamp at **Founders and Coders** that will hopefully take me to the next level! 
