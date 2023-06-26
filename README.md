@@ -7,7 +7,7 @@ a software developer in training, with a degree in philosophy, years of hospital
 learning front end development, starting from the basics: html, css and js. I recently started a bootcamp at **Founders and Coders** that will hopefully take me to the next level! 
 
 ### 📚 I’m currently learning
-about the exciting world of asynchronous task management and exploring the art of sending HTTP requests with JavaScript
+about building a testing library, unit testing, integration testing and TDD (test driven development)
 
 ### 💻 Languages and tools
 <div>
