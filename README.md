@@ -1,7 +1,7 @@
 # Hello 👋 , I' m Tommaso
 a software developer in training, with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders. 
 
- "I know that I know nothing"
+ >I know that I know nothing
 
 
  ![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
