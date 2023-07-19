@@ -1,5 +1,5 @@
 # Hello 👋 , I' m Tommaso
-a software developer in training, with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders. 
+a software developer in training, with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders.
 
  >I know that I know nothing
 
@@ -12,8 +12,10 @@ learning front end development, starting from the basics: html, css and js. I re
 ### 📚 I’m currently learning
 about building a testing library, unit testing, integration testing and TDD (test driven development)
 
-### 💻 Languages and tools
+### 💻 OS, languages and tools
+
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
