@@ -7,7 +7,7 @@ a software developer in training, with a degree in philosophy, years of hospital
  ![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
 
 ### 👷 I’m currently working on
-job applications really: I recently finished a bootcamp for full stack developer at [**Founders & Coders**](https://www.foundersandcoders.com) and now it's time for me to get a job in this new field!
+job applications really: I just finished a bootcamp for full stack developer at [**Founders & Coders**](https://www.foundersandcoders.com) and now it's time for me to get a job in this new field!
 Anyway whilst applying I' m working on a little solo project and I look around at some online courses that could expand and improve my knowledge. 
 
 ### 📚 I’m currently learning
