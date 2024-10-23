@@ -13,7 +13,7 @@ Anyway whilst applying I' m working on a little solo projects and I look around 
 
 ### 📚 I’m currently learning
 React, Next.js and Typescript to reinforce what I' ve recently learned. I will soon start a short course on AI fundamentals and see where that leads ✨!
-.
+
 
 ### 💻 OS, languages and tech
 
