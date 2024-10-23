@@ -12,7 +12,8 @@ job applications really: working at EssilorLuxottica made me realized how much I
 Anyway whilst applying I' m working on a little solo projects and I look around at some online courses that could expand and improve my knowledge. 
 
 ### 📚 I’m currently learning
-React, Next.js and Typescript to reinforce what I' ve recently learned. I will soon start a little course on AI to see whether I
+React, Next.js and Typescript to reinforce what I' ve recently learned. I will soon start a short course on AI fundamentals and see where that leads ✨!
+.
 
 ### 💻 OS, languages and tech
 
