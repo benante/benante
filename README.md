@@ -1,5 +1,6 @@
 # Hello 👋 , I' m Tommaso
-a software developer in training, with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders.
+a software developer with a degree in philosophy, years of hospitality and a few others as brewer on my shoulders.
+After I finished a bootcamp for full stack developers at [**Founders & Coders**](https://www.foundersandcoders.com) I joined [**EssilorLuxottica**](https://www.essilorluxottica.com/en/) for a 6 months contract during which I worked on building pages for their e-commerce brand [Vision Direct](https://www.visiondirect.co.uk/) using a (_pretty unknown_) CMS called [Coremedia](https://www.coremedia.com/).
 
  >I know that I know nothing
 
@@ -7,11 +8,11 @@ a software developer in training, with a degree in philosophy, years of hospital
  ![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
 
 ### 👷 I’m currently working on
-job applications really: I just finished a bootcamp for full stack developer at [**Founders & Coders**](https://www.foundersandcoders.com) and now it's time for me to get a job in this new field!
-Anyway whilst applying I' m working on a little solo project and I look around at some online courses that could expand and improve my knowledge. 
+job applications really: working at EssilorLuxottica made me realized how much I like building websites, especially on the front-end side, so I'm now looking for something new opportunity in this field!
+Anyway whilst applying I' m working on a little solo projects and I look around at some online courses that could expand and improve my knowledge. 
 
 ### 📚 I’m currently learning
-React, Next.js and Typescript to reinforce what I' ve recently learned. Next step will probably be AWS
+React, Next.js and Typescript to reinforce what I' ve recently learned. I will soon start a little course on AI to see whether I
 
 ### 💻 OS, languages and tech
 
@@ -37,7 +38,7 @@ React, Next.js and Typescript to reinforce what I' ve recently learned. Next ste
 he/him 
 
 ## 💩 Fun fact
-Rivers Cuomo, from Weezer, is also on **Github** [(check him out)](https://github.com/riverscuomo) and he has done more contributions than you!
+Rivers Cuomo, from Weezer, is also on **Github** [(check him out)](https://github.com/riverscuomo) and he has done probably more contributions than you!
 <!--
 Great resource: https://www.sitepoint.com/github-profile-readme/
 -->
