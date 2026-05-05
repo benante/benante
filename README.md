@@ -8,8 +8,7 @@ After I finished a bootcamp for full stack developers at [**Founders & Coders**]
  ![GIF](https://media.giphy.com/media/KpJ47gKe6b7v7xQyWj/giphy.gif)
 
 ### 👷 I’m currently working on
-job applications really: working at EssilorLuxottica made me realized how much I like building websites, especially on the front-end side, so I'm now looking for new opportunity in this field!
-Anyway whilst applying I' m working on a little solo projects and I look around at some online courses that could expand and improve my knowledge. 
+cs50x from Harvard University
 
 ### 📚 I’m currently learning
 React, Next.js and Typescript to reinforce what I' ve recently learned. I will soon start a short course on AI fundamentals and see where that leads ✨!
